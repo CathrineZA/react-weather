@@ -70,8 +70,10 @@ export default function App() {
           Fri
         </li>
       </ul>
-      <a href="https://www.shecodes.io/demos/react">open-source code</a>by
-      Makoma Cathrine Sekhuto
+      <a href="https://github.com/CathrineZA/react-weather.git">
+        open-source code
+      </a>
+      by Makoma Cathrine Sekhuto
     </div>
   );
 }
